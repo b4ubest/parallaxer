@@ -1,0 +1,22 @@
+body {
+  color: #fafafa; }
+
+a {
+  transition: transform 1s;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px currentColor;
+  opacity: .7;
+  display: block; }
+
+#intro, #middle, #footer {
+  height: 220px;
+  width: 100%; }
+
+#intro {
+  background-color: red; }
+
+#middle {
+  background-color: green; }
+
+#footer {
+  background-color: orange; }

@@ -1,0 +1,11 @@
+/bower_components/*
+/.sass-cache/*
+/node_modules/*
+/lib/*
+/production/img/*
+/source/*
+.jshintrc
+bower.json
+config.rb
+gulpfile.js
+*.DS_Store
