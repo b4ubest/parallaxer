@@ -22,7 +22,8 @@
     "gulp-jshint": "~1.6.3",
     "gulp-ruby-sass": "~0.5.0",
     "logfmt": "^1.1.2",
-    "express": "^4.4.5"
+    "express": "^4.4.5",
+    "pg": "2.x"
   },
   "devDependencies": {},
   "scripts": {
