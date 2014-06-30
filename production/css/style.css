@@ -10,13 +10,14 @@ a {
 
 #intro, #middle, #footer {
   height: 220px;
-  width: 100%; }
+  width: 100%;
+  font-size: 2.2rem; }
 
 #intro {
-  background-color: red; }
+  background-color: white; }
 
 #middle {
-  background-color: green; }
+  background-color: blue; }
 
 #footer {
-  background-color: olive; }
+  background-color: orange; }

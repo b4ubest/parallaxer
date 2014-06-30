@@ -23,7 +23,12 @@
     "gulp-ruby-sass": "~0.5.0",
     "logfmt": "^1.1.2",
     "express": "^4.4.5",
-    "pg": "2.x"
+    "pg": "2.x",
+    "connect": "^2.21.1",
+    "gulp-myth": "^0.3.1",
+    "gulp-csso": "^0.2.9",
+    "connect-livereload": "^0.4.0",
+    "tiny-lr": "0.0.7"
   },
   "devDependencies": {},
   "scripts": {

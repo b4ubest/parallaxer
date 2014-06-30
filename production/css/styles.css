@@ -6,6 +6,7 @@ a {
   -webkit-transition: -webkit-transform 1s;
   transition: transform 1s;
   border-radius: 5px;
+  -webkit-box-shadow: 2px 2px 3px currentColor;
   box-shadow: 2px 2px 3px currentColor;
   opacity: .7;
   display: block;
@@ -16,19 +17,21 @@ a {
 #footer {
   height: 220px;
   width: 100%;
+  font-size: 2.2rem;
 }
 
 #intro {
-  background-color: red;
+  background-color: white;
 }
 
 #middle {
-  background-color: green;
+  background-color: blue;
 }
 
 #footer {
-  background-color: olive;
+  background-color: orange;
 }
+
 p {
   line-height: 1.5rem;
   color: #eeeaaa;
